@@ -1,0 +1,6 @@
+{
+    "read": "http://127.0.0.1:8000/api/emplist",
+    "change": "http://127.0.0.1:8000/api/change",
+    "add": "http://127.0.0.1:8000/api/add",
+    "token": "http://127.0.0.1:8000/api/token"
+}
